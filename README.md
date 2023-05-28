@@ -1,11 +1,13 @@
 # RTK測量を用いた田んぼ測量装置関連のファイル
 
 ## 当レポジトリについて
-当レポジトリは、人工衛星測量装置関連で新たに作成したファイルなどを配置しています
+当レポジトリは、人工衛星測量装置関連で新たに作成したファイルなどを配置しています。
+
 
 ## 開発の背景
 自宅の田んぼは２年以上前に耕作放棄地だった土地を整備したのですが、ショベルカーで整備したので地面が平たんになっていません。  
 稲の生育を安定させるためには、なるべく田んぼは平坦にしたいところ。田んぼの測量装置を自作することにしました。  
+
 
 ## 仕組みの解説
 Youtubeで紹介しています。ぜひご覧ください。 
@@ -15,12 +17,14 @@ Youtubeで紹介しています。ぜひご覧ください。
 https://youtube.com/playlist?list=PLWImbCHDGxLq53x2UcwYJXQPbUMpTbUqQ  
 
 
+## 調達した資材たち
+主に以下の資材を調達しています。  
+初めてチャレンジする方は、一番上の本は絶対に購入した方が良いです。
+パナソニック TOUGHBOOK FZ-M1は、中古品です。
 
-【これ重要】センチメートルGPS測位 F9P RTKキット・マニュアル (トライアルシリーズ) 
-https://www.amazon.co.jp/gp/product/4789848035
+- **【これ重要】**センチメートルGPS測位 F9P RTKキット・マニュアル (トライアルシリーズ)   https://www.amazon.co.jp/gp/product/4789848035
 
-【基準局用】【移動局用】ZED-F9P RTKシステム開発用ボード　F9PX1
-https://store.shopping.yahoo.co.jp/geosense2/F9PX1.html
+-- 【基準局用】【移動局用】ZED-F9P RTKシステム開発用ボード　F9PX1  https://store.shopping.yahoo.co.jp/geosense2/F9PX1.html
 
 【基準局用】アンテナ　JCA228B
 https://store.shopping.yahoo.co.jp/geosense2/JCA228B.html
