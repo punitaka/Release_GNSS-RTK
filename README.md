@@ -1,10 +1,18 @@
-# Release_GNSS-RTK
-RTK 
+# RTK測量を用いた田んぼ測量装置関連のファイル
 
+## 当レポジトリについて
+当レポジトリは、人工衛星測量装置関連で新たに作成したファイルなどを配置しています
 
-◇Youtube再生リスト　（ぜひチャンネル登録宜しくお願い致します）
-【IoT/IT】人工衛星測量装置
-https://youtube.com/playlist?list=PLWImbCHDGxLq53x2UcwYJXQPbUMpTbUqQ
+## 開発の背景
+自宅の田んぼは２年以上前に耕作放棄地だった土地を整備したのですが、ショベルカーで整備したので地面が平たんになっていません。  
+稲の生育を安定させるためには、なるべく田んぼは平坦にしたいところ。田んぼの測量装置を自作することにしました。  
+
+## 仕組みの解説
+Youtubeで紹介しています。ぜひご覧ください。 
+チャンネル登録も、是非宜しくお願い致します。
+
+◇Youtube再生リスト　【IoT/IT】人工衛星測量装置  
+https://youtube.com/playlist?list=PLWImbCHDGxLq53x2UcwYJXQPbUMpTbUqQ  
 
 
 
