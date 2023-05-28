@@ -1,0 +1,8 @@
+# 99-ublox.rules
+# ラズパイOSに設定する設定値です。
+# 私はF9Pがいつも /dev/ttyF9P のところに配置されるよう、udevのルールを記述して /etc/udev/rules.d/99-ublox.rules に配置しました。
+
+# u-blox ZED-F9P
+KERNEL=="ttyACM*",\
+    ATTRS{idVendor}=="1546", ATTRS{idProduct}=="01a9",\
+    SYMLINK+="ttyF9P"

@@ -1,0 +1,27 @@
+☆RTK2goチームから登録後にもらうメールのサンプルです☆
+☆メール内にマウントポイント名（希望するIDと同じ）とパスワードが書かれています☆
+
+
+Sir or Madam: The requested mountPt has been added to the
+SNIP NTRIP Caster operating at rtk2go.com:2101 and may now be used.
+
+   The mountPt name is: YUKKURI-KIKUKA-1 - (this is case sensitive and must match to be used)
+   With the password: ひみつ - (also case sensitive)
+   Other details [City: Kumamoto Yamaga, Country: Japan Code: JPN]
+
+If you have been connecting with another password (such as WEEK21xx) you must now use the above.
+If you have received an eMail about this reservation before, the values shown above should now be used.
+This connection is expected to use the NTRIP Rev1 format (contact us if Rev2 is preferred)
+
+Note: Updated as per your request.
+
+Thank you for registering. Please let us know if you experience any problems with usage.
+Please instruct your users to enter a valid eMail as their user account name when connecting.
+Users (NTRIP Clients) without a valid email may not be allowed to connect. Any password is acceptable.
+
+If you find the RTK2go.com Public NTRIP Caster to be useful, please consider donating to support it.
+
+Regards,
+RTK2go Caster Support Team
+MailTo: support@use-snip.com
+See our web page: rtk2go.com
