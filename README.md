@@ -14,8 +14,8 @@
 ****
 
 ## 仕組みの解説
-Youtubeで紹介しています。ぜひご覧ください。 
-チャンネル登録も、是非宜しくお願い致します。
+Youtubeで紹介しています。ぜひご覧ください。  
+チャンネル登録も是非、宜しくお願い致します。
 
 ◇Youtube再生リスト　【IoT/IT】人工衛星測量装置  
 https://youtube.com/playlist?list=PLWImbCHDGxLq53x2UcwYJXQPbUMpTbUqQ  
